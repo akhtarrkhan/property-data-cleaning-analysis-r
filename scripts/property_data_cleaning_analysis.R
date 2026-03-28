@@ -13,10 +13,10 @@ library(openxlsx)
 
 # Loading two datasets called "PropertyDataset1.csv" and "PropertyDataset2.csv"
 
-PropertyDataset1 <- read.csv("C:/Users/njfbts/Downloads/PropertyDataset1.csv")
+PropertyDataset1 <- read.csv("data/PropertyDataset1.csv")
 View(PropertyDataset1)
 
-PropertyDataset2 <- read.csv("C:/Users/njfbts/Downloads/PropertyDataset2.csv")
+PropertyDataset2 <- read.csv("data/PropertyDataset2.csv")
 View(PropertyDataset2)
 
 # Question 1 - [Using PropertyDataset1.csv]
